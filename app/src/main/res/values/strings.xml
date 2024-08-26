@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Appwithactivity</string>
+    <string name="find_flower">Find Flower!</string>
+    <string name="flower_name">No flower selected</string>
+    <string-array name="flower_colors">
+        <item>yellow</item>
+        <item>red</item>
+        <item>pink</item>
+        <item>blue</item>
+        <item>white</item>
+    </string-array>
+</resources>
